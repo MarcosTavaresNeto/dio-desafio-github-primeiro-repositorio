@@ -1,0 +1,23 @@
+Os comandos devem ser utilizados no Git Bash:
+
+1) - Comando para clonar o repositório do GitHub:
+	git clone (-Endereço copiado no git hub, botão code https-)
+	- Será feito um clone em nossa maquina do repositório do GitHub
+
+2) - Comando para verificar o STATUS do arquivo no Git
+	git status
+
+3) - Comando para preparar os arquivos novos para serem comitados no Github
+	git add (Nome do arquivo) Prepara so o arquivo com o nome
+	git add (.) Prepara todos os arquivos
+	git add (-A)Prepara todos os arquivos
+
+4) - Salvar  os arquivos preparados no Git
+	git commit -m ("Mensagem sobre o commit") 
+
+5) - Enviar os arquivos commitados ao GitHub
+	git push origin main
+
+
+
+ 
